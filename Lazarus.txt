@@ -1,8 +1,10 @@
-Lazarus BETA by Alexander for Diablo II patch 1.05b
+Lazarus BETA 2 by Alexander for Diablo II patch 1.05b
 
 
 
 Features
+	-Weather enabled in acts 2 and 4
+	-See monsters through walls
 	-Displays all monsters on map
 
 
