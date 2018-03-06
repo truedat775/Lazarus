@@ -1,8 +1,10 @@
-Lazarus BETA 2 by Alexander for Diablo II patch 1.05b
+Lazarus BETA 3 by Alexander for Diablo II patch 1.05b
 
 
 
 Features
+	-Monster properties 'MS' and 'LE' will now display in BOLD and in Color(Red/Yellow)
+	-No longer displays Trapped Souls on map
 	-Weather enabled in acts 2 and 4
 	-See monsters through walls
 	-Displays all monsters on map
